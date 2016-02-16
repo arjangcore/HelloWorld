@@ -1,0 +1,6 @@
+This is Reza edit to this text file.
+A change just made.
+By me.
+A change.
+Change 2 for git reset.
+
